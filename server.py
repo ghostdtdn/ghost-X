@@ -3,7 +3,7 @@ import sys
 import socket
 import os
 
-print("\033[45m Concept & coded by\033[31m :\033[91m Ishan \033[0m ")
+print("\033[45m Concept & coded by\033[31m :\033[91m ghostdtdn \033[0m ")
 
 s = socket.socket()
 _host = "localhost"#str(input("set host> "))
