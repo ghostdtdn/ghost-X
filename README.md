@@ -7,9 +7,11 @@ This is for server side scripting.
 
 USAGE:
 
+python3 server.py <IPv4_addr> <port>
+
 Linux 
          
-         python3 server.py <IPv4_addr> <port>
+         python3 server.py 192.168.15.244 1230
       
 Windows
       
@@ -29,6 +31,12 @@ Linux
 Windows
    
          python client.py
+
+After that you will see the following input area. You should give the host & port which is previously used with server.py
+
+set host> 192.168.15.244
+
+set port> 1230
 
 # About new updates and developments
 
