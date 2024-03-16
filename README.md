@@ -5,9 +5,38 @@ Hack Linux and Windows PC over the LAN
 
 This is for server side scripting.
 
+# USAGE:
+
+# Linux 
+   
+   $ python3 server.py <IPv4_addr> <port>
+
+# ex
+
+   $ python3 server.py 192.168.25.33 4003
+
+# Windows
+
+   > python server.py 192.168.11.250 3002
+
+
 # client.py
 
 This is for client side scripting.
+
+# USAGE:
+
+# Linux 
+   
+   $ python3 client.py
+
+# ex
+
+   $ python3 client.py
+
+# Windows
+
+   > python client.py
 
 # About new updates and developments
 
